@@ -29,10 +29,6 @@
 ### 🛠 Main Skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,ts,js,react,nodejs,linux,git,github,pytorch)](https://skillicons.dev)
 
----
-
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=lakshaybishnoi&show_icons=true&theme=transparent&hide_border=true" />
 
 ---
 
