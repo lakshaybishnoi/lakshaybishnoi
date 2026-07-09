@@ -12,7 +12,7 @@
 ---
 
 ### 💼 About Me
-- Software Development Engineer Intern **@ KocharTech**
+- Software Development Engineer **@ KocharTech**
 - Building **real-time**, **AI-powered**, and **accessibility-first** systems
 - Linux (Ubuntu) • Performance-focused engineering
 
